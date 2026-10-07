@@ -1,0 +1,23 @@
+station,x_over_D,band,freq_MHz,event,time_s,altitude_km,printed_altitude_km,velocity_km_s,n_e_peak_m3,n_e_low_m3,n_e_high_m3,use_for_fit,flags,notes
+1,0.15,S,3348.0,onset,390.3,84.77,84.43,7.65,8.760e+16,4.380e+16,1.752e+17,yes,,
+1,0.15,S,3348.0,decay,424.3,21.85,,4.15,8.760e+16,4.380e+16,1.752e+17,no,ablation_period;low_confidence,b: decay inferred from end of modulation
+1,0.15,X,10044.0,onset,392.3,80.77,80.47,7.65,7.884e+17,3.942e+17,1.577e+18,yes,,
+1,0.15,X,10044.0,decay,420.0,27.6,,6.03,7.884e+17,3.942e+17,1.577e+18,no,ablation_period,
+1,0.15,Ka,35000.0,onset,396.8,71.93,71.93,7.65,9.573e+18,4.787e+18,1.915e+19,no,low_confidence,"c: from text, about 236 kft"
+2,0.76,L,1228.0,onset,390.3,84.77,84.43,7.65,1.178e+16,5.892e+15,2.357e+16,yes,,
+2,0.76,L,1228.0,decay,423.4,22.76,,4.56,1.178e+16,5.892e+15,2.357e+16,no,ablation_period,
+2,0.76,S,3348.0,onset,393.8,77.72,77.66,7.65,8.760e+16,4.380e+16,1.752e+17,yes,,
+2,0.76,S,3348.0,decay,422.3,24.24,,5.07,8.760e+16,4.380e+16,1.752e+17,no,ablation_period,
+2,0.76,X,10044.0,onset,397.8,69.88,69.8,7.65,7.884e+17,3.942e+17,1.577e+18,yes,,
+2,0.76,X,10044.0,decay,419.2,28.96,,6.31,7.884e+17,3.942e+17,1.577e+18,no,ablation_period,
+2,0.76,Ka,35000.0,onset,414.0,38.1,38.1,7.32,9.573e+18,4.787e+18,1.915e+19,no,ablation_period,
+2,0.76,Ka,35000.0,decay,417.8,31.24,31.09,6.67,9.573e+18,4.787e+18,1.915e+19,no,ablation_period,
+3,2.3,L,1228.0,onset,391.6,82.3,81.99,7.65,1.178e+16,5.892e+15,2.357e+16,yes,,
+3,2.3,L,1228.0,decay,421.8,24.94,24.93,5.3,1.178e+16,5.892e+15,2.357e+16,no,ablation_period,
+3,2.3,S,3348.0,onset,395.8,73.91,73.76,7.65,8.760e+16,4.380e+16,1.752e+17,yes,,
+3,2.3,S,3348.0,decay,420.8,26.37,,5.73,8.760e+16,4.380e+16,1.752e+17,no,ablation_period,
+3,2.3,X,10044.0,onset,406.8,52.04,51.82,7.62,7.884e+17,3.942e+17,1.577e+18,no,ablation_period;low_confidence,e: windward/leeward oscillation
+3,2.3,X,10044.0,decay,417.8,31.24,,6.67,7.884e+17,3.942e+17,1.577e+18,no,ablation_period;low_confidence,e: windward/leeward oscillation
+4,3.48,S,3348.0,onset,397.0,71.44,71.57,7.65,8.760e+16,4.380e+16,1.752e+17,no,low_confidence,low_confidence: band assignment unclear in scan
+4,3.48,S,3348.0,decay,419.6,28.28,28.04,6.17,8.760e+16,4.380e+16,1.752e+17,no,ablation_period;low_confidence,low_confidence: band assignment unclear in scan
+4,3.48,X,10044.0,decay,415.3,35.73,35.66,7.15,7.884e+17,3.942e+17,1.577e+18,no,ablation_period;low_confidence,low_confidence; e

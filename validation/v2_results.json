@@ -1,0 +1,54 @@
+{
+  "nu_en_fit_per_s": 594218.0973634948,
+  "nu_en_max_supported_per_s": 66069344.80075964,
+  "nu_en_hard_sphere_estimate_per_s": [
+    382462549.34663326,
+    1040931212.9147592
+  ],
+  "max_rel_error": 0.037168920635970666,
+  "pass": true,
+  "rows": [
+    {
+      "f_GHz": 0.1,
+      "table4": 0.01,
+      "absorption_only": 0.010304187285795886,
+      "eq18_as_printed": 1.7031693750680164e-86,
+      "transfer_matrix": 9.032362501920781e-05
+    },
+    {
+      "f_GHz": 0.5,
+      "table4": 0.011,
+      "absorption_only": 0.010613665831228853,
+      "eq18_as_printed": 7.043484254388039e-18,
+      "transfer_matrix": 0.002292294635796005
+    },
+    {
+      "f_GHz": 1.0,
+      "table4": 0.012,
+      "absorption_only": 0.011656802095619204,
+      "eq18_as_printed": 2.72581051124875e-09,
+      "transfer_matrix": 0.009608661205252013
+    },
+    {
+      "f_GHz": 2.0,
+      "table4": 0.018,
+      "absorption_only": 0.017330959428552527,
+      "eq18_as_printed": 6.481214599647515e-05,
+      "transfer_matrix": 0.046192589827458
+    },
+    {
+      "f_GHz": 4.0,
+      "table4": 0.185,
+      "absorption_only": 0.17954193722177517,
+      "eq18_as_printed": 0.07995825900434765,
+      "transfer_matrix": 0.3404881625112564
+    },
+    {
+      "f_GHz": 8.0,
+      "table4": 0.995,
+      "absorption_only": 0.9999826712827853,
+      "eq18_as_printed": 0.9999847486722026,
+      "transfer_matrix": 0.9948146720463823
+    }
+  ]
+}
