@@ -102,8 +102,6 @@ python -m unittest discover -s tests     # or: pytest
 4. Grantham, W. L. (1970). Flight results of a 25,000 ft/s reentry experiment using microwave reflectometers. NASA TN D-6062. [NTRS](https://ntrs.nasa.gov/citations/19710004000)
 5. Saltelli, A. et al. (2010). Variance based sensitivity analysis of model output. *Computer Physics Communications* 181, 259–270.
 
-Framing: re-entry telemetry, open literature only.
-
 ## Author
 
 Adam Williams, MEng Aeronautical & Astronautical Engineering, University of Southampton.
