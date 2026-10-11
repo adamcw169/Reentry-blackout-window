@@ -2,7 +2,7 @@
 
 **Where, at what cost, and with what confidence can pulsed electric fields restore radio contact through a re-entry plasma?**
 
-> **Bottom line:** pulsing buys about 1.5–2.5 km of extra S-band link altitude for about 290 W of average power. The limit is the depth of the plasma layer, not heating or arcing, and the biggest uncertainty is the re-entry plasma density itself, not the discharge physics. The reduced-order model is validated to within 3.7% against coupled CFD, has 33 tests and runs in seconds per flight condition.
+> **Summary:** pulsing buys about 1.5–2.5 km of extra S-band link altitude for about 290 W of average power. The limit is the depth of the plasma layer, not heating or arcing, and the biggest uncertainty is the re-entry plasma density itself, not the discharge physics. The reduced-order model is validated to within 3.7% against coupled CFD, has 33 tests and runs in seconds per flight condition.
 
 During re-entry the shock layer ionises and blocks radio links, known as a "blackout". A large negative voltage pulse on a surface electrode can push electrons out of a region above an antenna and open a window. Recent coupled CFD by Rodríguez Fuentes & Parent (2026, University of Arizona; called "Arizona" below) showed this at one flight condition. Particle simulations by Krishnamoorthy & Close (2017) showed it in collisionless plasma over nanoseconds. This project builds a fast reduced-order model, validates it against that CFD and against the RAM-C II flight data, and maps the whole design space with quasi-Monte Carlo uncertainty quantification.
 
