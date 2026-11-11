@@ -186,7 +186,7 @@ def make_figure(res, y, n):
     ax2.grid(True, which="major", color=grid, lw=0.8)
 
     fig.tight_layout()
-    fig.savefig(ROOT / "figures" / "v3_sheath.png")
+    fig.savefig(ROOT / "docs" / "assets" / "diagnostics" / "v3_sheath.png")
 
 
 if __name__ == "__main__":

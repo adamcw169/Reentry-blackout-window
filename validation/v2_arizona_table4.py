@@ -131,7 +131,7 @@ def make_figure(nu):
     ax.tick_params(colors=quiet)
     ax.legend(frameon=False, fontsize=9, loc="upper left", labelcolor=ink)
     fig.tight_layout()
-    fig.savefig(ROOT / "figures" / "v2_attenuation.png")
+    fig.savefig(ROOT / "docs" / "assets" / "diagnostics" / "v2_attenuation.png")
 
 
 if __name__ == "__main__":

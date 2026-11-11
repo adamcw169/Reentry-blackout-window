@@ -47,7 +47,7 @@ def main():
     ax.legend(frameon=False, fontsize=9, loc="lower left", bbox_to_anchor=(0, 0.2), labelcolor=INK)
     ax.set_ylim(64, 86)
     fig.tight_layout()
-    fig.savefig(ROOT / "figures" / "v1_ramc2_density.png")
+    fig.savefig(ROOT / "docs" / "assets" / "diagnostics" / "v1_ramc2_density.png")
 
 
 if __name__ == "__main__":
